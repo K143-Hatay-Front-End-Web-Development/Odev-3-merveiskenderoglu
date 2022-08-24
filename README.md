@@ -1,8 +1,8 @@
 # Odev-3
 
 ## Grup Üyeleri
-- [Ad] [Soyad]
-- [Ad] [Soyad]
+- [Merve] [İskenderoğlu]
+
 
 ## İçerik
 
