@@ -1,0 +1,87 @@
+.resultContent {
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+  height: 100vh;
+}
+
+.results h1 {
+  font-family: "Handlee";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 82px;
+  line-height: 109px;
+  color: #ff0000;
+  margin-bottom: 50px;
+}
+
+.results {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 300px;
+}
+
+.results h2 {
+  font-family: "Handlee";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 110px;
+  color: #ffffff;
+}
+
+.results h3 {
+  font-family: "Handlee";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 85px;
+  color: #ffffff;
+  margin-top: 100px;
+  margin-left: 80px;
+}
+
+.circle {
+  position: absolute;
+  top: 690px;
+}
+
+.line {
+  position: absolute;
+  top: 230px;
+}
+
+
+
+.questions h1 {
+    font-family: "Handlee";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 85px;
+    color: #ff0000;
+    margin-top: 50px;
+}
+
+.questions {
+    display: flex;
+    flex-direction: column;
+    margin-right: 400px;
+}
+
+.questionList {
+  font-family: 'Handlee';
+font-style: normal;
+font-weight: 400;
+font-size: 52px;
+line-height: 70px;
+
+color: #FFFFFF;
+}
+
+
+.questionLine {
+  position: absolute;
+  top: 120px;
+}

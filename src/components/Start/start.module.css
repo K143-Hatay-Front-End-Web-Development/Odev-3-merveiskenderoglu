@@ -1,0 +1,68 @@
+.title {
+  position: absolute;
+  top: 90px;
+  font-family: "Handlee";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 82px;
+  line-height: 109px;
+
+  color: #ff0000;
+}
+
+.titleContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.line {
+  position: absolute;
+  top: 200px;
+}
+
+.score h1 {
+  font-family: "Handlee";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 100px;
+  color: #ffffff;
+}
+
+.contentContainer {
+  display: flex;
+  margin-top: 300px;
+  margin-left: 300px;
+}
+
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.select {
+  margin-left: 600px;
+}
+
+.mainContainer h2 {
+  display: flex;
+  font-family: "Handlee";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 85px;
+
+  color: #ffffff;
+}
+
+.start {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.circle {
+    position: absolute;
+    top : 720px;
+}
