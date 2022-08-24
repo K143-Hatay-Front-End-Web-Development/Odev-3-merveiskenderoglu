@@ -1,0 +1,52 @@
+.question {
+    position : absolute;
+    left: 130px;
+    top: 70px;
+}
+
+.circle1 {
+    position: absolute;
+    left : 1200px;
+    top : 260px;
+}
+
+.circle2 {
+    position: absolute;
+    left : 1540px;
+    top : 370px;
+}
+
+.circle3 {
+    position: absolute;
+    left : 1260px;
+    top : 560px;
+}
+
+.QuestionFace {
+    position : absolute;
+    left: 780px;
+    top: 130px;
+}
+
+.TrueFace {
+    position : absolute;
+    left: 770px;
+    top: 110px;
+}
+
+.FalseFace {
+    position : absolute;
+    left: 750px;
+    top: 120px;
+}
+
+
+.answerText {
+    font-family: 'Handlee';
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+line-height: 120px;
+
+color: #FFFFFF;
+}

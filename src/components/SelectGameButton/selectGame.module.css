@@ -1,0 +1,10 @@
+.selectButton {
+  font-family: "Handlee";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 100px;
+
+  color: #ffffff;
+  cursor: pointer;
+}
