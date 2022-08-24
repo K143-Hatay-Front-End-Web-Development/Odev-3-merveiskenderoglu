@@ -3,6 +3,8 @@
 ## Grup Üyeleri
 - [Merve] [İskenderoğlu]
 
+## Live Demo
+-[Netlify](https://mathh-game.netlify.app/)
 
 ## İçerik
 
